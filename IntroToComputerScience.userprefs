@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="hello/hello.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="write_test/write_test.cs">
+    <Files>
+      <File FileName="hello/hello.cs" Line="5" Column="35" />
+      <File FileName="write_test/write_test.cs" Line="2" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
