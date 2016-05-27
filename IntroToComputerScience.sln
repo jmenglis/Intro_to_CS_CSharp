@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hello", "hello\hello.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "write_test", "write_test\write_test.csproj", "{0D40BE39-8B4E-434F-B2A5-399E8E833835}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "update_vars", "update_vars\update_vars.csproj", "{F4F3864F-EC58-4F61-BC8A-13E5904E0437}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -19,6 +21,10 @@ Global
 		{C4705BA5-6D52-4C6F-AC3D-332278DA44D8}.Debug|x86.Build.0 = Debug|x86
 		{C4705BA5-6D52-4C6F-AC3D-332278DA44D8}.Release|x86.ActiveCfg = Release|x86
 		{C4705BA5-6D52-4C6F-AC3D-332278DA44D8}.Release|x86.Build.0 = Release|x86
+		{F4F3864F-EC58-4F61-BC8A-13E5904E0437}.Debug|x86.ActiveCfg = Debug|x86
+		{F4F3864F-EC58-4F61-BC8A-13E5904E0437}.Debug|x86.Build.0 = Debug|x86
+		{F4F3864F-EC58-4F61-BC8A-13E5904E0437}.Release|x86.ActiveCfg = Release|x86
+		{F4F3864F-EC58-4F61-BC8A-13E5904E0437}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		Policies = $0
