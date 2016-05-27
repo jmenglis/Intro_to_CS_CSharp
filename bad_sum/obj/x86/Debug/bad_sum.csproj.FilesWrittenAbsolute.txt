@@ -1,0 +1,5 @@
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/bad_sum/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/bad_sum/bin/Debug/bad_sum.exe.mdb
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/bad_sum/bin/Debug/bad_sum.exe
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/bad_sum/obj/x86/Debug/bad_sum.exe
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/bad_sum/obj/x86/Debug/bad_sum.exe.mdb
