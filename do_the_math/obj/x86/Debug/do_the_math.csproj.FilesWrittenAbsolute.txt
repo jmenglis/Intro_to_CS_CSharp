@@ -1,0 +1,5 @@
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/do_the_math/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/do_the_math/bin/Debug/do_the_math.exe.mdb
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/do_the_math/bin/Debug/do_the_math.exe
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/do_the_math/obj/x86/Debug/do_the_math.exe
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/do_the_math/obj/x86/Debug/do_the_math.exe.mdb

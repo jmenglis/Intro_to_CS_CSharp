@@ -1,6 +1,6 @@
 ﻿using System;
 
-class add3 {
+class Add3 {
     static void Main() {
         Console.Write("Please enter number 1: ");
         string xString = Console.ReadLine();

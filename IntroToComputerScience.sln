@@ -25,6 +25,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hello_you1", "hello_you1\he
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hello_you2", "hello_you2\hello_you2.csproj", "{54D5B11D-6233-4BB9-B6D9-57C1DEEB95CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quotient_format", "quotient_format\quotient_format.csproj", "{C3A970F9-DECC-411D-9D72-00412786B913}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "my_mad_lib", "my_mad_lib\my_mad_lib.csproj", "{7EC19A53-CDDB-4069-8C61-CE8F53173D4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "do_the_math", "do_the_math\do_the_math.csproj", "{B627BD7B-D214-44BD-962A-62FD47F9F37C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -55,14 +61,26 @@ Global
 		{671B2CC2-D49E-4EBD-B73B-E1BB0467B481}.Debug|x86.Build.0 = Debug|x86
 		{671B2CC2-D49E-4EBD-B73B-E1BB0467B481}.Release|x86.ActiveCfg = Release|x86
 		{671B2CC2-D49E-4EBD-B73B-E1BB0467B481}.Release|x86.Build.0 = Release|x86
+		{7EC19A53-CDDB-4069-8C61-CE8F53173D4F}.Debug|x86.ActiveCfg = Debug|x86
+		{7EC19A53-CDDB-4069-8C61-CE8F53173D4F}.Debug|x86.Build.0 = Debug|x86
+		{7EC19A53-CDDB-4069-8C61-CE8F53173D4F}.Release|x86.ActiveCfg = Release|x86
+		{7EC19A53-CDDB-4069-8C61-CE8F53173D4F}.Release|x86.Build.0 = Release|x86
 		{9F2C5C3F-6353-4966-AC6B-1CC0D3BEC678}.Debug|x86.ActiveCfg = Debug|x86
 		{9F2C5C3F-6353-4966-AC6B-1CC0D3BEC678}.Debug|x86.Build.0 = Debug|x86
 		{9F2C5C3F-6353-4966-AC6B-1CC0D3BEC678}.Release|x86.ActiveCfg = Release|x86
 		{9F2C5C3F-6353-4966-AC6B-1CC0D3BEC678}.Release|x86.Build.0 = Release|x86
+		{B627BD7B-D214-44BD-962A-62FD47F9F37C}.Debug|x86.ActiveCfg = Debug|x86
+		{B627BD7B-D214-44BD-962A-62FD47F9F37C}.Debug|x86.Build.0 = Debug|x86
+		{B627BD7B-D214-44BD-962A-62FD47F9F37C}.Release|x86.ActiveCfg = Release|x86
+		{B627BD7B-D214-44BD-962A-62FD47F9F37C}.Release|x86.Build.0 = Release|x86
 		{C08390C3-C496-4E41-BB79-5D3A144F6435}.Debug|x86.ActiveCfg = Debug|x86
 		{C08390C3-C496-4E41-BB79-5D3A144F6435}.Debug|x86.Build.0 = Debug|x86
 		{C08390C3-C496-4E41-BB79-5D3A144F6435}.Release|x86.ActiveCfg = Release|x86
 		{C08390C3-C496-4E41-BB79-5D3A144F6435}.Release|x86.Build.0 = Release|x86
+		{C3A970F9-DECC-411D-9D72-00412786B913}.Debug|x86.ActiveCfg = Debug|x86
+		{C3A970F9-DECC-411D-9D72-00412786B913}.Debug|x86.Build.0 = Debug|x86
+		{C3A970F9-DECC-411D-9D72-00412786B913}.Release|x86.ActiveCfg = Release|x86
+		{C3A970F9-DECC-411D-9D72-00412786B913}.Release|x86.Build.0 = Release|x86
 		{C4705BA5-6D52-4C6F-AC3D-332278DA44D8}.Debug|x86.ActiveCfg = Debug|x86
 		{C4705BA5-6D52-4C6F-AC3D-332278DA44D8}.Debug|x86.Build.0 = Debug|x86
 		{C4705BA5-6D52-4C6F-AC3D-332278DA44D8}.Release|x86.ActiveCfg = Release|x86

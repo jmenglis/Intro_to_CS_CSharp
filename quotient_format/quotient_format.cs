@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Quotient {
+class QuotientFormat {
     static void Main() {
         Console.Write("Please Enter an Integer: ");
         string xString = Console.ReadLine();
@@ -13,7 +13,7 @@ class Quotient {
         int quo = x/y;
         int rem = x%y;
 
-        Console.WriteLine("The quotient of " + x + " and " + y + " is " + quo + " with a remainder of " + rem + ".");
+        Console.WriteLine("The quotient of {0} and {1} is {2} with a remainder of {3}.", x, y, quo, rem);
     }
 
 }
