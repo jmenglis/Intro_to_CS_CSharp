@@ -1,0 +1,5 @@
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/poem/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/poem/bin/Debug/poem.exe.mdb
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/poem/bin/Debug/poem.exe
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/poem/obj/x86/Debug/poem.exe
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/poem/obj/x86/Debug/poem.exe.mdb
