@@ -1,0 +1,5 @@
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/interview/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/interview/bin/Debug/interview.exe.mdb
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/interview/bin/Debug/interview.exe
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/interview/obj/x86/Debug/interview.exe
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/interview/obj/x86/Debug/interview.exe.mdb

@@ -15,6 +15,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bad_sum", "bad_sum\bad_sum.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "good_sum", "good_sum\good_sum.csproj", "{07FFC1F9-A95F-45D3-BD2D-8D5635B92400}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interview", "interview\interview.csproj", "{2F6E8E51-D9C1-4D17-B79C-0B6AB44D847B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "add3", "add3\add3.csproj", "{C08390C3-C496-4E41-BB79-5D3A144F6435}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quotient", "quotient\quotient.csproj", "{2DFF8583-466E-43F3-B064-5B3AFA8D3F49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hello_you1", "hello_you1\hello_you1.csproj", "{CD7663F7-B42F-460F-8239-CD317F891E52}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -29,6 +37,14 @@ Global
 		{0D40BE39-8B4E-434F-B2A5-399E8E833835}.Debug|x86.Build.0 = Debug|x86
 		{0D40BE39-8B4E-434F-B2A5-399E8E833835}.Release|x86.ActiveCfg = Release|x86
 		{0D40BE39-8B4E-434F-B2A5-399E8E833835}.Release|x86.Build.0 = Release|x86
+		{2DFF8583-466E-43F3-B064-5B3AFA8D3F49}.Debug|x86.ActiveCfg = Debug|x86
+		{2DFF8583-466E-43F3-B064-5B3AFA8D3F49}.Debug|x86.Build.0 = Debug|x86
+		{2DFF8583-466E-43F3-B064-5B3AFA8D3F49}.Release|x86.ActiveCfg = Release|x86
+		{2DFF8583-466E-43F3-B064-5B3AFA8D3F49}.Release|x86.Build.0 = Release|x86
+		{2F6E8E51-D9C1-4D17-B79C-0B6AB44D847B}.Debug|x86.ActiveCfg = Debug|x86
+		{2F6E8E51-D9C1-4D17-B79C-0B6AB44D847B}.Debug|x86.Build.0 = Debug|x86
+		{2F6E8E51-D9C1-4D17-B79C-0B6AB44D847B}.Release|x86.ActiveCfg = Release|x86
+		{2F6E8E51-D9C1-4D17-B79C-0B6AB44D847B}.Release|x86.Build.0 = Release|x86
 		{671B2CC2-D49E-4EBD-B73B-E1BB0467B481}.Debug|x86.ActiveCfg = Debug|x86
 		{671B2CC2-D49E-4EBD-B73B-E1BB0467B481}.Debug|x86.Build.0 = Debug|x86
 		{671B2CC2-D49E-4EBD-B73B-E1BB0467B481}.Release|x86.ActiveCfg = Release|x86
@@ -37,10 +53,18 @@ Global
 		{9F2C5C3F-6353-4966-AC6B-1CC0D3BEC678}.Debug|x86.Build.0 = Debug|x86
 		{9F2C5C3F-6353-4966-AC6B-1CC0D3BEC678}.Release|x86.ActiveCfg = Release|x86
 		{9F2C5C3F-6353-4966-AC6B-1CC0D3BEC678}.Release|x86.Build.0 = Release|x86
+		{C08390C3-C496-4E41-BB79-5D3A144F6435}.Debug|x86.ActiveCfg = Debug|x86
+		{C08390C3-C496-4E41-BB79-5D3A144F6435}.Debug|x86.Build.0 = Debug|x86
+		{C08390C3-C496-4E41-BB79-5D3A144F6435}.Release|x86.ActiveCfg = Release|x86
+		{C08390C3-C496-4E41-BB79-5D3A144F6435}.Release|x86.Build.0 = Release|x86
 		{C4705BA5-6D52-4C6F-AC3D-332278DA44D8}.Debug|x86.ActiveCfg = Debug|x86
 		{C4705BA5-6D52-4C6F-AC3D-332278DA44D8}.Debug|x86.Build.0 = Debug|x86
 		{C4705BA5-6D52-4C6F-AC3D-332278DA44D8}.Release|x86.ActiveCfg = Release|x86
 		{C4705BA5-6D52-4C6F-AC3D-332278DA44D8}.Release|x86.Build.0 = Release|x86
+		{CD7663F7-B42F-460F-8239-CD317F891E52}.Debug|x86.ActiveCfg = Debug|x86
+		{CD7663F7-B42F-460F-8239-CD317F891E52}.Debug|x86.Build.0 = Debug|x86
+		{CD7663F7-B42F-460F-8239-CD317F891E52}.Release|x86.ActiveCfg = Release|x86
+		{CD7663F7-B42F-460F-8239-CD317F891E52}.Release|x86.Build.0 = Release|x86
 		{E950ACDA-DE87-4A4C-AB94-2BF7C2AD67D1}.Debug|x86.ActiveCfg = Debug|x86
 		{E950ACDA-DE87-4A4C-AB94-2BF7C2AD67D1}.Debug|x86.Build.0 = Debug|x86
 		{E950ACDA-DE87-4A4C-AB94-2BF7C2AD67D1}.Release|x86.ActiveCfg = Release|x86
@@ -53,13 +77,34 @@ Global
 	GlobalSection(MonoDevelopProperties) = preSolution
 		Policies = $0
 		$0.TextStylePolicy = $1
-		$1.FileWidth = 120
-		$1.NoTabsAfterNonTabs = True
 		$1.inheritsSet = VisualStudio
 		$1.inheritsScope = text/plain
 		$1.scope = text/x-csharp
 		$0.CSharpFormattingPolicy = $2
-		$2.AfterDelegateDeclarationParameterComma = True
+		$2.IndentSwitchBody = True
+		$2.IndentBlocksInsideExpressions = True
+		$2.AnonymousMethodBraceStyle = NextLine
+		$2.PropertyBraceStyle = NextLine
+		$2.PropertyGetBraceStyle = NextLine
+		$2.PropertySetBraceStyle = NextLine
+		$2.EventBraceStyle = NextLine
+		$2.EventAddBraceStyle = NextLine
+		$2.EventRemoveBraceStyle = NextLine
+		$2.StatementBraceStyle = NextLine
+		$2.ElseNewLinePlacement = NewLine
+		$2.CatchNewLinePlacement = NewLine
+		$2.FinallyNewLinePlacement = NewLine
+		$2.WhileNewLinePlacement = DoNotCare
+		$2.ArrayInitializerWrapping = DoNotChange
+		$2.ArrayInitializerBraceStyle = NextLine
+		$2.BeforeMethodDeclarationParentheses = False
+		$2.BeforeMethodCallParentheses = False
+		$2.BeforeConstructorDeclarationParentheses = False
+		$2.NewLineBeforeConstructorInitializerColon = NewLine
+		$2.NewLineAfterConstructorInitializerColon = SameLine
+		$2.BeforeDelegateDeclarationParentheses = False
+		$2.NewParentheses = False
+		$2.SpacesBeforeBrackets = False
 		$2.inheritsSet = Mono
 		$2.inheritsScope = text/x-csharp
 		$2.scope = text/x-csharp

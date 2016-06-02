@@ -1,0 +1,5 @@
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/quotient/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/quotient/bin/Debug/quotient.exe.mdb
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/quotient/bin/Debug/quotient.exe
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/quotient/obj/x86/Debug/quotient.exe
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/quotient/obj/x86/Debug/quotient.exe.mdb
