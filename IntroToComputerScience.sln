@@ -63,6 +63,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodScope", "GoodScope\Good
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "constant", "constant\constant.csproj", "{318458D5-E266-4EF4-9756-1142A4B7B7FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "addition3", "addition3\addition3.csproj", "{338E6EA8-0DD2-441F-92A3-9CEA62C3EECB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ui", "uif\ui.csproj", "{74CCA3F7-65DB-4221-9D5D-C8014CB18E1D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -109,6 +113,10 @@ Global
 		{32BB6AD5-4E7E-484E-AFA3-19D0102752C9}.Debug|x86.Build.0 = Debug|x86
 		{32BB6AD5-4E7E-484E-AFA3-19D0102752C9}.Release|x86.ActiveCfg = Release|x86
 		{32BB6AD5-4E7E-484E-AFA3-19D0102752C9}.Release|x86.Build.0 = Release|x86
+		{338E6EA8-0DD2-441F-92A3-9CEA62C3EECB}.Debug|x86.ActiveCfg = Debug|x86
+		{338E6EA8-0DD2-441F-92A3-9CEA62C3EECB}.Debug|x86.Build.0 = Debug|x86
+		{338E6EA8-0DD2-441F-92A3-9CEA62C3EECB}.Release|x86.ActiveCfg = Release|x86
+		{338E6EA8-0DD2-441F-92A3-9CEA62C3EECB}.Release|x86.Build.0 = Release|x86
 		{4C981CA4-3AA4-44C1-ABF4-6B65C29EC5DD}.Debug|x86.ActiveCfg = Debug|x86
 		{4C981CA4-3AA4-44C1-ABF4-6B65C29EC5DD}.Debug|x86.Build.0 = Debug|x86
 		{4C981CA4-3AA4-44C1-ABF4-6B65C29EC5DD}.Release|x86.ActiveCfg = Release|x86
@@ -133,6 +141,10 @@ Global
 		{671B2CC2-D49E-4EBD-B73B-E1BB0467B481}.Debug|x86.Build.0 = Debug|x86
 		{671B2CC2-D49E-4EBD-B73B-E1BB0467B481}.Release|x86.ActiveCfg = Release|x86
 		{671B2CC2-D49E-4EBD-B73B-E1BB0467B481}.Release|x86.Build.0 = Release|x86
+		{74CCA3F7-65DB-4221-9D5D-C8014CB18E1D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{74CCA3F7-65DB-4221-9D5D-C8014CB18E1D}.Debug|x86.Build.0 = Debug|Any CPU
+		{74CCA3F7-65DB-4221-9D5D-C8014CB18E1D}.Release|x86.ActiveCfg = Release|Any CPU
+		{74CCA3F7-65DB-4221-9D5D-C8014CB18E1D}.Release|x86.Build.0 = Release|Any CPU
 		{79AD4F2B-C9EB-4AAB-81FA-36CC1867710D}.Debug|x86.ActiveCfg = Debug|x86
 		{79AD4F2B-C9EB-4AAB-81FA-36CC1867710D}.Debug|x86.Build.0 = Debug|x86
 		{79AD4F2B-C9EB-4AAB-81FA-36CC1867710D}.Release|x86.ActiveCfg = Release|x86
