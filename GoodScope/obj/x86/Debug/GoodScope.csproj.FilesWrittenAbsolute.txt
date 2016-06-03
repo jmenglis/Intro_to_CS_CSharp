@@ -1,0 +1,5 @@
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/GoodScope/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/GoodScope/bin/Debug/GoodScope.exe.mdb
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/GoodScope/bin/Debug/GoodScope.exe
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/GoodScope/obj/x86/Debug/GoodScope.exe
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/GoodScope/obj/x86/Debug/GoodScope.exe.mdb

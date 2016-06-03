@@ -1,0 +1,5 @@
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/constant/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/constant/bin/Debug/constant.exe.mdb
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/constant/bin/Debug/constant.exe
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/constant/obj/x86/Debug/constant.exe
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/constant/obj/x86/Debug/constant.exe.mdb
