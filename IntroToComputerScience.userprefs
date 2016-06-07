@@ -1,8 +1,28 @@
 ﻿<Properties StartupItem="hello/hello.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="good_sum/good_sum.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="string_mani/string_mani.cs">
     <Files>
       <File FileName="good_sum/good_sum.cs" Line="14" Column="2" />
+      <File FileName="string_mani/string_mani.cs" Line="9" Column="50" />
+      <File FileName="traceback/traceback.cs" Line="1" Column="1" />
+      <File FileName="quotient_u_i.cs/Program.cs" Line="1" Column="1" />
+      <File FileName="quotient_return/quotient_return.cs" Line="1" Column="1" />
+      <File FileName="hello_you2/hello_you2.cs" Line="1" Column="1" />
+      <File FileName="Return1/Return1.cs" Line="1" Column="1" />
+      <File FileName="Return2/Return2.cs" Line="1" Column="1" />
+      <File FileName="update_vars3/update_vars3.cs" Line="1" Column="1" />
+      <File FileName="update_vars/update_vars.cs" Line="1" Column="1" />
+      <File FileName="my_mad_lib/my_mad_lib.cs" Line="1" Column="1" />
+      <File FileName="poem/poem.cs" Line="1" Column="1" />
+      <File FileName="quotient_format/quotient_format.cs" Line="1" Column="1" />
+      <File FileName="birthday4/birthday4.cs" Line="1" Column="1" />
+      <File FileName="birthday_who/birthday_who.cs" Line="1" Column="1" />
+      <File FileName="birthday_many/birthday_many.cs" Line="1" Column="1" />
+      <File FileName="birthday2/birthday2.cs" Line="1" Column="1" />
+      <File FileName="interview/interview.cs" Line="1" Column="1" />
+      <File FileName="uif/uif.cs" Line="1" Column="1" />
+      <File FileName="write_test/write_test.cs" Line="1" Column="1" />
+      <File FileName="painting_input/painting_input.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
