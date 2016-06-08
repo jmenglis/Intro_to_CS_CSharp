@@ -1,0 +1,7 @@
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/wages2/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/wages2/bin/Debug/wages2.exe.mdb
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/wages2/bin/Debug/wages2.exe
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/wages2/obj/x86/Debug/wages2.exe
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/wages2/obj/x86/Debug/wages2.exe.mdb
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/wages2/bin/Debug/uif.dll
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/wages2/bin/Debug/uif.dll.mdb

@@ -85,6 +85,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clothes", "clothes\clothes.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ok_if_scope", "ok_if_scope\ok_if_scope.csproj", "{5474C670-12DF-4BC7-9A6A-B741E8D23962}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wages1", "wages1\wages1.csproj", "{79B261F9-E0A6-4AF5-8C81-B0B4E26C7E7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wages2", "wages2\wages2.csproj", "{F6892398-D6D8-424C-8BB4-8A3D6E1C8F3A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -187,6 +191,10 @@ Global
 		{79AD4F2B-C9EB-4AAB-81FA-36CC1867710D}.Debug|x86.Build.0 = Debug|x86
 		{79AD4F2B-C9EB-4AAB-81FA-36CC1867710D}.Release|x86.ActiveCfg = Release|x86
 		{79AD4F2B-C9EB-4AAB-81FA-36CC1867710D}.Release|x86.Build.0 = Release|x86
+		{79B261F9-E0A6-4AF5-8C81-B0B4E26C7E7A}.Debug|x86.ActiveCfg = Debug|x86
+		{79B261F9-E0A6-4AF5-8C81-B0B4E26C7E7A}.Debug|x86.Build.0 = Debug|x86
+		{79B261F9-E0A6-4AF5-8C81-B0B4E26C7E7A}.Release|x86.ActiveCfg = Release|x86
+		{79B261F9-E0A6-4AF5-8C81-B0B4E26C7E7A}.Release|x86.Build.0 = Release|x86
 		{7EC19A53-CDDB-4069-8C61-CE8F53173D4F}.Debug|x86.ActiveCfg = Debug|x86
 		{7EC19A53-CDDB-4069-8C61-CE8F53173D4F}.Debug|x86.Build.0 = Debug|x86
 		{7EC19A53-CDDB-4069-8C61-CE8F53173D4F}.Release|x86.ActiveCfg = Release|x86
@@ -255,6 +263,10 @@ Global
 		{F4F3864F-EC58-4F61-BC8A-13E5904E0437}.Debug|x86.Build.0 = Debug|x86
 		{F4F3864F-EC58-4F61-BC8A-13E5904E0437}.Release|x86.ActiveCfg = Release|x86
 		{F4F3864F-EC58-4F61-BC8A-13E5904E0437}.Release|x86.Build.0 = Release|x86
+		{F6892398-D6D8-424C-8BB4-8A3D6E1C8F3A}.Debug|x86.ActiveCfg = Debug|x86
+		{F6892398-D6D8-424C-8BB4-8A3D6E1C8F3A}.Debug|x86.Build.0 = Debug|x86
+		{F6892398-D6D8-424C-8BB4-8A3D6E1C8F3A}.Release|x86.ActiveCfg = Release|x86
+		{F6892398-D6D8-424C-8BB4-8A3D6E1C8F3A}.Release|x86.Build.0 = Release|x86
 		{FE18FAEF-8F01-4C77-98C3-6BDFFBC5D46A}.Debug|x86.ActiveCfg = Debug|x86
 		{FE18FAEF-8F01-4C77-98C3-6BDFFBC5D46A}.Debug|x86.Build.0 = Debug|x86
 		{FE18FAEF-8F01-4C77-98C3-6BDFFBC5D46A}.Release|x86.ActiveCfg = Release|x86
