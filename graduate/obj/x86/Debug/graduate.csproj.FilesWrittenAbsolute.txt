@@ -1,0 +1,7 @@
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/graduate/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/graduate/bin/Debug/graduate.exe.mdb
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/graduate/bin/Debug/graduate.exe
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/graduate/obj/x86/Debug/graduate.exe
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/graduate/obj/x86/Debug/graduate.exe.mdb
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/graduate/bin/Debug/uif.dll
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/graduate/bin/Debug/uif.dll.mdb
