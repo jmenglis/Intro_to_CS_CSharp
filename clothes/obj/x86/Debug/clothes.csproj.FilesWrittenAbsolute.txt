@@ -1,0 +1,7 @@
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/clothes/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/clothes/bin/Debug/clothes.exe.mdb
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/clothes/bin/Debug/clothes.exe
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/clothes/obj/x86/Debug/clothes.exe
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/clothes/obj/x86/Debug/clothes.exe.mdb
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/clothes/bin/Debug/uif.dll
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/clothes/bin/Debug/uif.dll.mdb
