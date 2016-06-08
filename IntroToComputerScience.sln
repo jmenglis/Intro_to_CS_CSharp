@@ -91,6 +91,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wages2", "wages2\wages2.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "graduate", "graduate\graduate.csproj", "{7BF07B02-F545-4364-BD24-AB0DE49DD505}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grade", "grade\grade.csproj", "{D025A7BD-D1D8-4F1F-A850-3CBF643F4A95}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -257,6 +259,10 @@ Global
 		{CD7663F7-B42F-460F-8239-CD317F891E52}.Debug|x86.Build.0 = Debug|x86
 		{CD7663F7-B42F-460F-8239-CD317F891E52}.Release|x86.ActiveCfg = Release|x86
 		{CD7663F7-B42F-460F-8239-CD317F891E52}.Release|x86.Build.0 = Release|x86
+		{D025A7BD-D1D8-4F1F-A850-3CBF643F4A95}.Debug|x86.ActiveCfg = Debug|x86
+		{D025A7BD-D1D8-4F1F-A850-3CBF643F4A95}.Debug|x86.Build.0 = Debug|x86
+		{D025A7BD-D1D8-4F1F-A850-3CBF643F4A95}.Release|x86.ActiveCfg = Release|x86
+		{D025A7BD-D1D8-4F1F-A850-3CBF643F4A95}.Release|x86.Build.0 = Release|x86
 		{D65FE090-0E62-445C-A54E-7C0E3023E046}.Debug|x86.ActiveCfg = Debug|x86
 		{D65FE090-0E62-445C-A54E-7C0E3023E046}.Debug|x86.Build.0 = Debug|x86
 		{D65FE090-0E62-445C-A54E-7C0E3023E046}.Release|x86.ActiveCfg = Release|x86
