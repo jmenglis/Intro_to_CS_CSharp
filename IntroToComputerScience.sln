@@ -83,6 +83,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "suitcase", "suitcase\suitca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clothes", "clothes\clothes.csproj", "{A762BB40-29E1-487C-9509-046A56DB6BD2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ok_if_scope", "ok_if_scope\ok_if_scope.csproj", "{5474C670-12DF-4BC7-9A6A-B741E8D23962}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -157,6 +159,10 @@ Global
 		{5004D0C8-B29D-45BC-BF82-E9F3CD34AD73}.Debug|x86.Build.0 = Debug|x86
 		{5004D0C8-B29D-45BC-BF82-E9F3CD34AD73}.Release|x86.ActiveCfg = Release|x86
 		{5004D0C8-B29D-45BC-BF82-E9F3CD34AD73}.Release|x86.Build.0 = Release|x86
+		{5474C670-12DF-4BC7-9A6A-B741E8D23962}.Debug|x86.ActiveCfg = Debug|x86
+		{5474C670-12DF-4BC7-9A6A-B741E8D23962}.Debug|x86.Build.0 = Debug|x86
+		{5474C670-12DF-4BC7-9A6A-B741E8D23962}.Release|x86.ActiveCfg = Release|x86
+		{5474C670-12DF-4BC7-9A6A-B741E8D23962}.Release|x86.Build.0 = Release|x86
 		{54D5B11D-6233-4BB9-B6D9-57C1DEEB95CA}.Debug|x86.ActiveCfg = Debug|x86
 		{54D5B11D-6233-4BB9-B6D9-57C1DEEB95CA}.Debug|x86.Build.0 = Debug|x86
 		{54D5B11D-6233-4BB9-B6D9-57C1DEEB95CA}.Release|x86.ActiveCfg = Release|x86

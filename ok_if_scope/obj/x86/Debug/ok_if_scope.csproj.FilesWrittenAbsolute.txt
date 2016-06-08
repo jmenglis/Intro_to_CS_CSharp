@@ -1,0 +1,7 @@
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/ok_if_scope/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/ok_if_scope/bin/Debug/uif.dll
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/ok_if_scope/bin/Debug/uif.dll.mdb
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/ok_if_scope/bin/Debug/ok_if_scope.exe.mdb
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/ok_if_scope/bin/Debug/ok_if_scope.exe
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/ok_if_scope/obj/x86/Debug/ok_if_scope.exe
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/ok_if_scope/obj/x86/Debug/ok_if_scope.exe.mdb
