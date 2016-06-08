@@ -1,0 +1,7 @@
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/suitcase/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/suitcase/bin/Debug/suitcase.exe.mdb
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/suitcase/bin/Debug/suitcase.exe
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/suitcase/obj/x86/Debug/suitcase.exe
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/suitcase/obj/x86/Debug/suitcase.exe.mdb
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/suitcase/bin/Debug/uif.dll
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/suitcase/bin/Debug/uif.dll.mdb
