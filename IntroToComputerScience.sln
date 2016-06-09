@@ -99,6 +99,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grade2", "grade2\grade2.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wages3", "wages3\wages3.csproj", "{342F089B-A28D-4CDA-9CBB-BD5C55CEFFA9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "congress", "congress\congress.csproj", "{B15A07A8-D48D-417A-B7D1-3D7E523B8716}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -249,6 +251,10 @@ Global
 		{AD650240-C037-4166-8F72-5AB673273BFC}.Debug|x86.Build.0 = Debug|x86
 		{AD650240-C037-4166-8F72-5AB673273BFC}.Release|x86.ActiveCfg = Release|x86
 		{AD650240-C037-4166-8F72-5AB673273BFC}.Release|x86.Build.0 = Release|x86
+		{B15A07A8-D48D-417A-B7D1-3D7E523B8716}.Debug|x86.ActiveCfg = Debug|x86
+		{B15A07A8-D48D-417A-B7D1-3D7E523B8716}.Debug|x86.Build.0 = Debug|x86
+		{B15A07A8-D48D-417A-B7D1-3D7E523B8716}.Release|x86.ActiveCfg = Release|x86
+		{B15A07A8-D48D-417A-B7D1-3D7E523B8716}.Release|x86.Build.0 = Release|x86
 		{B627BD7B-D214-44BD-962A-62FD47F9F37C}.Debug|x86.ActiveCfg = Debug|x86
 		{B627BD7B-D214-44BD-962A-62FD47F9F37C}.Debug|x86.Build.0 = Debug|x86
 		{B627BD7B-D214-44BD-962A-62FD47F9F37C}.Release|x86.ActiveCfg = Release|x86
