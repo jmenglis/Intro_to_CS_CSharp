@@ -101,6 +101,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wages3", "wages3\wages3.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "congress", "congress\congress.csproj", "{B15A07A8-D48D-417A-B7D1-3D7E523B8716}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cartesian", "cartesian\cartesian.csproj", "{518F522C-251C-4CD5-A035-2E0EF5773B48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -179,6 +181,10 @@ Global
 		{5004D0C8-B29D-45BC-BF82-E9F3CD34AD73}.Debug|x86.Build.0 = Debug|x86
 		{5004D0C8-B29D-45BC-BF82-E9F3CD34AD73}.Release|x86.ActiveCfg = Release|x86
 		{5004D0C8-B29D-45BC-BF82-E9F3CD34AD73}.Release|x86.Build.0 = Release|x86
+		{518F522C-251C-4CD5-A035-2E0EF5773B48}.Debug|x86.ActiveCfg = Debug|x86
+		{518F522C-251C-4CD5-A035-2E0EF5773B48}.Debug|x86.Build.0 = Debug|x86
+		{518F522C-251C-4CD5-A035-2E0EF5773B48}.Release|x86.ActiveCfg = Release|x86
+		{518F522C-251C-4CD5-A035-2E0EF5773B48}.Release|x86.Build.0 = Release|x86
 		{5474C670-12DF-4BC7-9A6A-B741E8D23962}.Debug|x86.ActiveCfg = Debug|x86
 		{5474C670-12DF-4BC7-9A6A-B741E8D23962}.Debug|x86.Build.0 = Debug|x86
 		{5474C670-12DF-4BC7-9A6A-B741E8D23962}.Release|x86.ActiveCfg = Release|x86

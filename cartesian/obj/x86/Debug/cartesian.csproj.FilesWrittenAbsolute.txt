@@ -1,0 +1,9 @@
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/cartesian/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/cartesian/bin/Debug/cartesian.exe.mdb
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/cartesian/bin/Debug/cartesian.exe
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/cartesian/obj/x86/Debug/cartesian.exe
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/cartesian/obj/x86/Debug/cartesian.exe.mdb
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/cartesian/bin/Debug/update_vars.exe
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/cartesian/bin/Debug/update_vars.exe.mdb
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/cartesian/bin/Debug/uif.dll
+/Users/jenglish/code/My_Projects/CSharp/IntroToComputerScience/cartesian/bin/Debug/uif.dll.mdb
